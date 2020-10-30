@@ -12,11 +12,11 @@
         <br>
         <h2>มุข</h2>
         <p>ข้างขึ้น คือ 15 ค่ำ ข้างแรม คืออะไร?</p>
-        <p>เฉลย : CPU</p>
         <img src="ram.jpg">
+        <p>เฉลย : CPU</p>
         <p>ผึ้งที่ไว้ใช้เสียบกับคอมพิวเตอร์ มาจากประเทศอะไร</p>
-        <p>เฉลย : USB(US Bee)</p>
         <img src="bee.jpg">
+        <p>เฉลย : USB(US Bee)</p>
         <a href="https://www.fandom.com/">ลิงที่ชอบ</a>
     </body>
 </html>
