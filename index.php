@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-    <title>ITF website</title>
+    <title>ITF Webmaster</title>
     </head>
     <body>
         <h1>
